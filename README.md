@@ -1,2 +1,2 @@
 # Cash-Register-Project
-FreeCodeCamp project
+FreeCodeCamp project 
